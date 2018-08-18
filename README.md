@@ -1,2 +1,5 @@
 # AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+Starting project for Node learning
+- integration tests
+- travis CI
+
