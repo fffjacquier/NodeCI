@@ -23,7 +23,9 @@
     "concurrently": "^3.5.0",
     "cookie-session": "^2.0.0-beta.2",
     "express": "^4.15.3",
+    "https-proxy-agent": "^2.2.1",
     "jest": "^22.1.4",
+    "lodash": "^4.17.10",
     "migrate-mongoose": "^3.2.2",
     "mongoose": "^4.11.1",
     "nodemon": "^1.18.3",
@@ -32,6 +34,7 @@
     "path-parser": "^2.0.2",
     "puppeteer": "^1.0.0",
     "redis": "^2.8.0",
+    "sshpk": "^1.14.2",
     "uuid": "^3.3.2"
   }
 }
