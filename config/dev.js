@@ -5,4 +5,6 @@ module.exports = {
   mongoURI: 'mongodb://fjacquier:mLab1!2!3!@ds219532.mlab.com:19532/blog-dev',
   cookieKey: '123123123',
   redisUrl: 'redis://127.0.0.1:6379',
+  accessKeyId: '',
+  secretAccessKey: '',
 }
