@@ -17,7 +17,7 @@ export const submitBlog = (values, file, history) => async dispatch => {
   const uploadConfig = await axios.get('/api/upload')
   // this config should contain a data prop containing a key and url
 
-  const upload = await axios.put(uploadConfig.data.url, file, {
+  await axios.put(uploadConfig.data.url, file, {
     headers: {
       'Content-Type': file.type,
     },
