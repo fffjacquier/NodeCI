@@ -23,6 +23,7 @@
     "concurrently": "^3.5.0",
     "cookie-session": "^2.0.0-beta.2",
     "express": "^4.15.3",
+    "hoek": "^5.0.4",
     "https-proxy-agent": "^2.2.1",
     "jest": "^22.1.4",
     "lodash": "^4.17.10",
